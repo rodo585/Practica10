@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(150, 129, 167);
+}
+nav{
+    background-color: black;
+}
+footer{
+    background-color:rgb(46, 9, 63);
+}
+
+.slider{
+    background: url("../img/banner.jpg");
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+#logo{
+    display: inline-block;
+    margin-bottom: 0px;
+    height: 120px;
+}
